@@ -1,0 +1,7 @@
+D:\test\.NET\InheritanceApp\bin\Debug\InheritanceApp.exe.config
+D:\test\.NET\InheritanceApp\bin\Debug\InheritanceApp.exe
+D:\test\.NET\InheritanceApp\bin\Debug\InheritanceApp.pdb
+D:\test\.NET\InheritanceApp\obj\Debug\InheritanceApp.csproj.AssemblyReference.cache
+D:\test\.NET\InheritanceApp\obj\Debug\InheritanceApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\InheritanceApp\obj\Debug\InheritanceApp.exe
+D:\test\.NET\InheritanceApp\obj\Debug\InheritanceApp.pdb
